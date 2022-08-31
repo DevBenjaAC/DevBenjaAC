@@ -12,10 +12,12 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff) -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff) -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
+![Photoshop](http://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff) -->
 <!-- ![Illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=ffffff) -->
-<!-- ![Photoshop](http://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff) -->
 
+<a href="https://www.linkedin.com/in/soybenjamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soybenjamin/" height="15" width="20" /></a>
+</p>
 ✈️Let´s Go!🛩
