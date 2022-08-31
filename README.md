@@ -18,6 +18,7 @@
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff) -->
 <!-- ![Illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=ffffff) -->
 
-<a href="https://www.linkedin.com/in/soybenjamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soybenjamin/" height="50" width="60" /> Conecta Conmigo, "Click Aqui".! </a>
+<a href="https://www.linkedin.com/in/soybenjamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soybenjamin/" height="60" width="70" /> Conecta Conmigo, Edgar Benjamin Alvarado Cisneros
+Full Stack Developer Jr</a>
 </p>
 ✈️Let´s Go!🛩
